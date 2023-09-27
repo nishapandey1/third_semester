@@ -1,1 +1,1 @@
-nisha dalle
+print (2,3)
