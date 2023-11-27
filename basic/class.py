@@ -1,0 +1,7 @@
+name= input ("enter your name:")
+address=input("your address:")
+contact=int(input("contact number:"))
+gender=input("your gender:")
+college=input("your college name:")
+faculty=input("what is your faculty:")
+print(f"your name {name}\n address {address}\n contact {contact}\n gender {gender}\n college {college}\n faculty {faculty}")
