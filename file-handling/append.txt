@@ -1,0 +1,3 @@
+example of write mode
+ this is example of append
+use of append mode

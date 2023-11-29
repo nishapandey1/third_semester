@@ -1,0 +1,15 @@
+f=open("append.txt","w")
+f.write("example of write mode")
+f.write("\n this is example of append")
+f.close()
+
+f=open("append.txt", "a")
+f.write("\n")
+f.write("use of append mode")
+f.close()
+
+f=open("append.txt", "r")
+print(f.read())
+f.seek(0)
+print(f.readline())
+print(f.readlines())
