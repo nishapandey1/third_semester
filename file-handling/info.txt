@@ -1,0 +1,6 @@
+Name= Nisha
+address= Kalanki
+gender=female
+age=19
+faculty= Ethical
+roll number=23

@@ -1,0 +1,18 @@
+Name:nisha
+Address: balkhu
+gender: female
+age: 19
+faculty: eth
+roll_number 23
+Name:narendra
+Address: balaju
+gender: male
+age:20
+faculty:eth
+roll_number 21
+Name:ina
+Address: baniyatar
+gender: female
+age:19
+faculty:psychology
+roll_number 24
